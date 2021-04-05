@@ -21,7 +21,7 @@ public class Thread1 extends Thread {
 		synchronized (objeto1) { //PASSAGEM 1
 			try {
 				System.out.println("Adquire objeto1, espera pelo objeto2!");
-				Thread.sleep(10); //
+				Thread.sleep(10); //SET LOCK_TIMEOUT 1000
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

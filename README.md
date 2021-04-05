@@ -1,4 +1,5 @@
 ## DEADLOCK PREVENTION EXAMPLE - Java
 
 Disciplina: Banco de Dados 2  
-Autor: Matheus A. Rodrigues 
+Autor: Matheus A. Rodrigues  
+Equipe: JOSÉ ERIKSON DOS SANTOS BRITO, TAMIRES PIMENTA MANHÃES, MATHEUS ALVES RODRIGUES
